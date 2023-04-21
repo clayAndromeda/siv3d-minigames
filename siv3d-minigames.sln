@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OfflineProject", "OfflineProject\OfflineProject.vcxproj", "{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mizutama", "mizutama\mizutama.vcxproj", "{E696D09E-6654-4F33-872F-263893B6AC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Emscripten = Debug|Emscripten
+		Debug|x64 = Debug|x64
+		Release|Emscripten = Release|Emscripten
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Debug|Emscripten.ActiveCfg = Debug|x64
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Debug|Emscripten.Build.0 = Debug|x64
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Debug|x64.ActiveCfg = Debug|x64
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Debug|x64.Build.0 = Debug|x64
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Release|Emscripten.ActiveCfg = Release|x64
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Release|Emscripten.Build.0 = Release|x64
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Release|x64.ActiveCfg = Release|x64
+		{BC160549-DB7E-46FD-BB71-E1ACBCF679E6}.Release|x64.Build.0 = Release|x64
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Debug|Emscripten.ActiveCfg = Debug|Emscripten
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Debug|Emscripten.Build.0 = Debug|Emscripten
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Debug|x64.ActiveCfg = Debug|Emscripten
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Debug|x64.Build.0 = Debug|Emscripten
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Release|Emscripten.ActiveCfg = Release|Emscripten
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Release|Emscripten.Build.0 = Release|Emscripten
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Release|x64.ActiveCfg = Release|Emscripten
+		{E696D09E-6654-4F33-872F-263893B6AC25}.Release|x64.Build.0 = Release|Emscripten
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69611104-9191-4E54-AF98-D2439C1F0274}
+	EndGlobalSection
+EndGlobal
