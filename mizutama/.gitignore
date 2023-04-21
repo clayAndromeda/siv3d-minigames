@@ -423,3 +423,5 @@ gmon.out
 # Ignore example
 **/App/example/
 example/
+
+# resourcesフォルダはコピペで復元する
